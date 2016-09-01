@@ -8,6 +8,8 @@ public class Mover : MonoBehaviour
 	public float moveTime = 0.05f;
 	public float speed = 1;
 
+
+
 	float acceleration;
 	public float currSpeed;
 

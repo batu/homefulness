@@ -19,7 +19,9 @@ public class GoogleMap : MonoBehaviour
 	public bool doubleResolution = false;
 	public GoogleMapMarker[] markers;
 	public GoogleMapPath[] paths;
-	
+
+    public Terrain ter;
+
 	void Start() {
 		if(loadOnStart) Refresh();	
 	}
@@ -76,7 +78,10 @@ public class GoogleMap : MonoBehaviour
         
         var req = new WWW(url + "?" + qs);
         yield return req;
-        GetComponent<Renderer>().material.mainTexture = req.texture;
+
+        //GetComponent<Renderer>().material.mainTexture = req.texture;
+
+
     }
 	
 	
