@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Memories_Future/Assets/Plugins/Android/EasyMovieTexture.jar.meta
+guid: 6fe6744bff85f3b48a2f9d4354e34eb3
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Android:
+      enabled: 1
+      settings: {}
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+=======
+guid: 73763b77e7ce44abb94002ab70b7f25b
+timeCreated: 1462053048
+licenseType: Pro
+DefaultImporter:
+>>>>>>> 0233b8dcca5dca2422a47c2d65c5d04c5534bce3:Memories_Future/Assets/GoogleVR/DemoScenes/ControllerDemo/ControllerDemo.unity.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
