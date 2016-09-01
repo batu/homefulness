@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/noor.unity
+- path: Assets/GoogleVR/DemoScenes/ControllerDemo/ControllerDemo.unity
   isLoaded: 1
   isActive: 1
